@@ -1,11 +1,11 @@
 # TP-Middleware
 
-## TP1_Ex1
+## TP1_Ex1 (Fully completed)
   > Send to client via TCP socket an interger.
   > The server receives the interger and calculate the factoriel and send to client.
   > the client prints the result.
 
-## TP1_Ex2
+## TP1_Ex2 (Partially completed)
   > Send to client via TCP socket a String.
   > The server receives the String
   > The server upcases all the string and send to client 
